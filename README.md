@@ -25,4 +25,4 @@ By default, the measurement module and the timer module are independent, which m
 With the "chain shutdowns" button, both modules have to go off in order to turn it off. So now, the computer won't turn off before the set time, and only if it has finished its work.
 
 # Download (Windows)
-https://github.com/SirDella/apa/raw/master/intento%20de%20auto%20apagado/bin/Release/intento%20de%20auto%20apagado.exe
+https://github.com/SirDella/apa-auto-shutdown/raw/master/intento%20de%20auto%20apagado/bin/Release/APA.exe
