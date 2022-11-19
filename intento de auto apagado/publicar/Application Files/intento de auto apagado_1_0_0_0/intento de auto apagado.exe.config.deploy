@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="intento_de_auto_apagado.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <startup> 
+        
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.1"/></startup>
+    <runtime>
+        <generatePublisherEvidence enabled="false"/> 
+    </runtime>
+    <userSettings>
+        <intento_de_auto_apagado.Properties.Settings>
+            <setting name="netThSet" serializeAs="String">
+                <value>20</value>
+            </setting>
+            <setting name="cpuThSet" serializeAs="String">
+                <value>20</value>
+            </setting>
+            <setting name="rbAutoShutSet" serializeAs="String">
+                <value>1</value>
+            </setting>
+            <setting name="HoldSet" serializeAs="String">
+                <value>90</value>
+            </setting>
+            <setting name="AutoshutStartSet" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="shutdownTypeSet" serializeAs="String">
+                <value>1</value>
+            </setting>
+            <setting name="useAverageSet" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="chainShutdownsSet" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="keepActiveStateSet" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="startOnBootSet" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="timedMinutesSet" serializeAs="String">
+                <value>60</value>
+            </setting>
+            <setting name="timedTimeSet" serializeAs="String">
+                <value>13:30</value>
+            </setting>
+            <setting name="timedStartSet" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="timedRbSet" serializeAs="String">
+                <value>1</value>
+            </setting>
+            <setting name="Setting" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="iconLocationSet" serializeAs="String">
+                <value>empty</value>
+            </setting>
+        </intento_de_auto_apagado.Properties.Settings>
+    </userSettings>
+</configuration>
